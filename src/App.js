@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          chị khoai ăn cứt 
+          test 1
+           
         </a>
       </header>
     </div>
